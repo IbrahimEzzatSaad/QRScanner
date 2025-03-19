@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:hint="@string/result"
+        app:hintTextColor="@android:color/black"
+        app:boxStrokeColor="@color/orange"
+        android:layout_margin="16dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edtResult"
+            android:enabled="false"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCopy"
+        android:text="@string/copy"
+        android:insetTop="0dp"
+        app:cornerRadius="0dp"
+        app:backgroundTint="@color/orange"
+        android:insetBottom="0dp"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        app:iconGravity="textStart"
+        android:textColor="@color/white"
+        app:icon="@drawable/ic_copy"
+        app:iconTint="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

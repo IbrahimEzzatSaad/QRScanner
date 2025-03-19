@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="subtitle">Place QR code inside the frame to scan and avoid shaking to get results quickly</string>
+    <string name="title">Scan QR</string>
+    <string name="qr_scanning_history">QR Scanning History</string>
+    <string name="click_here_to_scan">Click Here to Scan</string>
+    <string name="turn_flash_on_off">Turn Flash On/Off</string>
+    <string name="result">Result</string>
+    <string name="copy">Copy</string>
+    <string name="joke_message">No access granted. Are you some kind of secret agent?</string>
+    <string name="favorite_only">Favorite Only</string>
+
+</resources>

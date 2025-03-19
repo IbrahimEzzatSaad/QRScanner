@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="barcode_corner_radius">8dp</dimen>
+    <dimen name="barcode_stroke_width">4dp</dimen>
+
+</resources>
