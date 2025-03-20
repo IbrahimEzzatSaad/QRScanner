@@ -7,9 +7,9 @@ QRScanner application built using Java, following the MVVM architectural pattern
 [Download APK from here](https://drive.google.com/file/d/1QgdU3BcDoHqOyROrh_wMjA1kaCF2KZ5j/view?usp=sharing)
 
 
-<img src="https://github.com/user-attachments/assets/9eb0b198-0d68-4d6e-8690-86667f531028" width="300">
-<img src="https://github.com/user-attachments/assets/91d80d71-17d0-4b44-be57-d6c6d1f7de1a" width="300">
-<img src="https://github.com/user-attachments/assets/4350f528-f8bb-45fb-868c-1b8a9a69db37" width="300">
+<img src="https://github.com/user-attachments/assets/9eb0b198-0d68-4d6e-8690-86667f531028" width="200">
+<img src="https://github.com/user-attachments/assets/91d80d71-17d0-4b44-be57-d6c6d1f7de1a" width="200">
+<img src="https://github.com/user-attachments/assets/4350f528-f8bb-45fb-868c-1b8a9a69db37" width="200">
 
 
 ## Architecture 🗼
