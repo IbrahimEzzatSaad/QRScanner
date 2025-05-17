@@ -14,8 +14,6 @@ QRScanner application built using Java, following the clean architectural patter
 
 ## Architecture 🗼
 
-- MVVM Pattern
-
 
 **For more information you can
 check [Guide to app architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAiA_omPBhBBEiwAcg7smXcfbEYneoLKFD_4Tyw0OgVQkpZL_XIr5TPXT0mncuQhgDIBBvLhbBoCEx0QAvD_BwE&gclsrc=aw.ds#mobile-app-ux)**
