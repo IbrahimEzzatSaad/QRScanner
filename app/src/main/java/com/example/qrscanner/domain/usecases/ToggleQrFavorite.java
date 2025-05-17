@@ -1,6 +1,6 @@
 package com.example.qrscanner.domain.usecases;
 
-import com.example.qrscanner.domain.repoistory.QrRepository;
+import com.example.qrscanner.data.repositories.QrRepository;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 

@@ -3,7 +3,7 @@ package com.example.qrscanner.domain.usecases;
 import androidx.lifecycle.LiveData;
 
 import com.example.qrscanner.domain.model.QrDetail;
-import com.example.qrscanner.domain.repoistory.QrRepository;
+import com.example.qrscanner.data.repositories.QrRepository;
 
 import java.util.List;
 

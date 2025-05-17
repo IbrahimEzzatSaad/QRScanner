@@ -1,13 +1,12 @@
-package com.example.qrscanner.data.repositories;
+package com.example.qrscanner.data.repositoriesImp;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Transformations;
 
 import com.example.qrscanner.data.cache.Cache;
 import com.example.qrscanner.data.cache.entities.CachedQrDetails;
-import com.example.qrscanner.data.di.DataModule;
 import com.example.qrscanner.domain.model.QrDetail;
-import com.example.qrscanner.domain.repoistory.QrRepository;
+import com.example.qrscanner.data.repositories.QrRepository;
 
 import java.util.ArrayList;
 import java.util.List;

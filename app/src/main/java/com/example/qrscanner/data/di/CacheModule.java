@@ -25,6 +25,7 @@ public abstract class CacheModule {
     @Binds
     public abstract Cache bindCache(RoomCache cache);
 
+
     @Module
     @InstallIn(SingletonComponent.class)
     public static class CacheModuleProvider {

@@ -1,4 +1,4 @@
-package com.example.qrscanner.domain.repoistory;
+package com.example.qrscanner.data.repositories;
 
 
 import androidx.lifecycle.LiveData;

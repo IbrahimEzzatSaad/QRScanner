@@ -1,18 +1,14 @@
-package com.example.qrscanner.data.repositories;
+package com.example.qrscanner.data.repositoriesImp;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
-import android.content.Context;
-
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule;
-import androidx.room.Room;
-import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 import com.example.qrscanner.LiveDataTestUtil;
 import com.example.qrscanner.data.cache.QRDatabase;
-import com.example.qrscanner.domain.repoistory.QrRepository;
+import com.example.qrscanner.data.repositories.QrRepository;
 import com.example.qrscanner.domain.model.QrDetail;
 
 import org.junit.After;

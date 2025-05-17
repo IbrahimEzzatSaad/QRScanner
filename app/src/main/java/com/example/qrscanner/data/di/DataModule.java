@@ -1,7 +1,7 @@
 package com.example.qrscanner.data.di;
 
-import com.example.qrscanner.data.repositories.QrRepositoryImp;
-import com.example.qrscanner.domain.repoistory.QrRepository;
+import com.example.qrscanner.data.repositoriesImp.QrRepositoryImp;
+import com.example.qrscanner.data.repositories.QrRepository;
 import javax.inject.Singleton;
 import dagger.Module;
 import dagger.Provides;

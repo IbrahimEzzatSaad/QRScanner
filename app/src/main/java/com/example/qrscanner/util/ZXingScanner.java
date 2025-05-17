@@ -1,4 +1,5 @@
 package com.example.qrscanner.util;
+
 import android.graphics.ImageFormat;
 import android.util.Log;
 import androidx.camera.core.ImageAnalysis;
