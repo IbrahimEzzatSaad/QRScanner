@@ -2,7 +2,7 @@
 
 # QRScanner 
 
-QRScanner application built using Java, following the MVVM architectural pattern. The project integrates ZXing QR decoder and Hilt Dagger for dependency injection and Room Database for local storage.
+QRScanner application built using Java, following the clean architectural pattern. The project integrates ZXing QR decoder and Hilt Dagger for dependency injection and Room Database for local storage.
 
 [Download APK from here](https://drive.google.com/file/d/1QgdU3BcDoHqOyROrh_wMjA1kaCF2KZ5j/view?usp=sharing)
 
